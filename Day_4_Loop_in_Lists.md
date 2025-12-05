@@ -28,13 +28,17 @@ Total sum is: 30
 
 ### **Q3.**
 
-Use `marks = [70, 80, 90]`.
+Use `marks = [70, 80, 90, 88, 74, 83]`.
 Print each mark with a message like:
 
 ```
 Mark: 70
 Mark: 80
 Mark: 90
+Mark: 88
+Mark: 74
+Mark: 74
+Mark: 83
 ```
 
 ---

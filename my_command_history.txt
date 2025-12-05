@@ -8,3 +8,4 @@
 06-12-2025 02:17:26   29  python train_model.py 
 06-12-2025 02:18:14   30  push "Day_03_Lists"
 06-12-2025 03:39:07   29  python train_model.py 
+06-12-2025 03:39:50   30  push "Day_4_Loop_in_Lists"
